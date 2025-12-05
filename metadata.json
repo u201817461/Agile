@@ -1,0 +1,5 @@
+{
+  "name": "VelocidadSim",
+  "description": "Simulador interactivo de ingeniería para el cálculo y visualización de velocidad, distancia y tiempo.",
+  "requestFramePermissions": []
+}
